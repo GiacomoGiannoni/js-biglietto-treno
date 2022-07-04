@@ -1,5 +1,4 @@
 const kmdaPercorrere = prompt('Inserisci Km da percorrere');
-console.log("Il tipo della variabile kmdaPercorrere è: " + typeof kmdaPercorrere)
 const annoNascita = prompt('Inserisci il tuo anno di nascita');
 console.log("Il tipo della variabile annoNascita è: " + typeof annoNascita);
 
